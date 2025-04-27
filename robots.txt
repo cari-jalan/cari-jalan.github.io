@@ -1,0 +1,3 @@
+User-agent: * 
+Allow: /
+Sitemap: https://cari-jalan.github.io/sitemap.xml
